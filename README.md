@@ -1,2 +1,5 @@
-# Desafio-1---Resolu-o-EscolaDnc-
-Resolução desafio 1
+# Desafio 1 - Resolução
+
+Link do site disponibilizado:
+
+Link da planilha de registro de informação:https://shorturl.at/vIKS1
